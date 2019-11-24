@@ -1,0 +1,8 @@
+.CardWrapper {
+    margin: 0 auto;
+}
+
+.card {
+    width: 300px;
+    margin: 20px;
+}

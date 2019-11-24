@@ -20,3 +20,22 @@
 .App-link {
   color: #09d3ac;
 }
+
+.btnRight {
+  margin: 20px;
+}
+
+.btnWrapper {
+  position: relative;
+  bottom: 120px;
+}
+
+.container {
+  position: relative;
+  top: 130px;
+}
+
+.spinner {
+  position: relative;
+  top: 50px;
+}
